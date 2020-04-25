@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slde!"
 ---
-Your text
+Johnny Joseph Gargano
 Use the left arrow to go back!
